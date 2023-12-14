@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalyani Gawande</h1>
 <h3 align="center">A passionate for Data Analysis from India</h3>
 
-- 🌱 I’m currently learning **MySQL, Python**
+- 🌱 I’m currently learning **MySQL, Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalyani9625](https://github.com/Kalyani9625)
 

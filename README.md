@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kalyani Gawande</h1>
-<h3 align="center">A passionate for Data Analysis from India</h3>
+<h3 align="center">A keen and meticulous storyteller having a passion for Data Analysis from India</h3>
 
 - 🌱 I’m currently learning **MySQL, Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalyani9625](https://github.com/Kalyani9625)
+
+- 📝 I regularly write articles on [https://www.novypro.com/profile_projects/kalyanigawande](https://www.novypro.com/profile_projects/kalyanigawande)
+
+- 💬 Ask me about **Data Visualization, DAX**
 
 - 📫 How to reach me **kalyanigawande2025@gmail.com**
 
